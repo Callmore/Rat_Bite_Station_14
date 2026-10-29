@@ -7,7 +7,6 @@ using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.Reagent;
 using Content.Shared.Lathe;
 using Content.Shared.Materials;
-using Content.Shared.Research.Prototypes;
 
 namespace Content.Server.Lathe;
 
